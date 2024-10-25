@@ -1,0 +1,81 @@
+Anurag Basu
+[Email: anurag@gmail.com | LinkedIn: linkedin.com/in/anurag | GitHub: github.com/codexAb | Phone: +123-456-7890]
+
+Objective
+A highly motivated and detail-oriented B.Tech graduate with expertise in Full Stack Development and Data Science. Proficient in building web applications, data analysis, and developing AI solutions. Eager to leverage technical skills in software engineering and machine learning to contribute to innovative projects and deliver impactful results in a dynamic organization.
+
+Education
+Bachelor of Technology (B.Tech) in Computer Science
+XYZ University
+Graduated: July 2024
+CGPA: 8.5/10
+
+Skills
+Languages: Python, JavaScript (Node.js, React.js), HTML5, CSS3, SQL, NoSQL (MongoDB)
+Frameworks/Libraries: Flask, Django, Express.js, React.js, TensorFlow, Keras, PyTorch
+Databases: MySQL, PostgreSQL, MongoDB
+Cloud: AWS, GCP, Docker, Kubernetes
+Version Control: Git, GitHub, GitLab
+AI/ML Tools: Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow, Keras
+Others: RESTful APIs, Web Scraping, Selenium, NLTK, Agile, Docker, CI/CD
+Projects
+1. Full Stack Social Media Platform
+Description: Developed a full-stack social media platform where users can create profiles, post content, like/comment on posts, and follow other users.
+Tech Stack:
+Frontend: React.js
+Backend: Node.js with Express.js
+Database: MongoDB
+Key Features:
+User authentication and authorization using JWT.
+Real-time post updates with WebSocket.
+Responsive UI/UX with Material-UI.
+RESTful API integration.
+2. AI-Powered Mock Interview Platform
+Description: Built a platform that provides automated mock interview experiences for job seekers using AI to generate real-time interview questions and feedback.
+Tech Stack:
+Frontend: React.js
+Backend: Flask
+AI Tools: GPT-3 API, TensorFlow for question generation and feedback analysis.
+Key Features:
+AI-based dynamic question generation based on user-selected topics.
+Real-time performance feedback using machine learning models.
+Integrated natural language processing (NLP) for voice-based interview simulation.
+3. Stock Price Prediction using Machine Learning and Deep Learning
+Description: Developed a predictive model to forecast stock prices using machine learning and deep learning techniques.
+Tech Stack: Python, TensorFlow, Scikit-learn, Keras
+Key Features:
+Time-series data preprocessing and feature extraction.
+Implemented multiple models including Linear Regression, LSTM, and GRU to analyze performance.
+Visualized predictions and accuracy with Matplotlib and Seaborn.
+Achieved a 92% accuracy in stock price prediction for selected stocks.
+4. AI Automation Tool for Social Media Posting
+Description: Created an automation tool that generates social media posts from topics or video inputs using natural language processing.
+Tech Stack: Python (Flask), TensorFlow, React.js
+Key Features:
+Input any topic or video, and the tool generates suggested posts or video descriptions using NLP.
+Integrated scheduling system for automatic posting to Twitter and Instagram via APIs.
+Analyzed engagement metrics to optimize post timings and content.
+Internships
+Data Science Intern
+ABC Technologies, Jan 2024 – June 2024
+
+Worked on building machine learning models for customer segmentation and behavior prediction.
+Automated data pipelines using Python, Pandas, and Apache Airflow to reduce data processing time by 30%.
+Developed dashboards using Power BI and Tableau to visualize key business insights.
+Full Stack Developer Intern
+DEF Solutions, June 2023 – Dec 2023
+
+Collaborated with a team to build a B2B e-commerce platform from scratch.
+Integrated payment gateways and third-party APIs for a seamless user experience.
+Implemented security features to ensure data protection and secured online transactions.
+Certifications
+AWS Certified Solutions Architect – Associate
+Google Data Engineer Certification
+Full Stack Development Bootcamp – Udemy
+Machine Learning Specialization – Coursera
+Achievements
+Hackathon Winner, XYZ University Annual Tech Fest (2024): Developed a web-based chatbot solution for customer service automation.
+Top Performer, ABC Technologies Internship: Recognized for exceptional performance in developing ML models for predictive analytics.
+Extracurricular Activities
+Member, XYZ University Coding Club: Conducted workshops on Python and web development.
+Active Contributor, Open Source Projects: Contributed to Flask and Django libraries.
